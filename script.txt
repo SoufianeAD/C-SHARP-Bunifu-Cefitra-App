@@ -1,0 +1,64 @@
+
+/*==============================================================*/
+/* Table : CLIENT                                               */
+/*==============================================================*/
+create table CLIENT (
+   CODE_CLIENT          varchar(20)          null,
+   NOM_CLIENT           text                 null,
+   TEL_CLIENT           text                 null,
+   ADDRESSE_CLIENT      text                 null,
+   DATE_INSCRIPTION_CLIENT datetime             null
+)
+go
+
+/*==============================================================*/
+/* Table : FOURNISSEUR                                          */
+/*==============================================================*/
+create table FOURNISSEUR (
+   CODE_FOURNISSEUR     varchar(20)          not null,
+   NOM_FOURNISSEUR      text                 null,
+   TEL_FOURNISSEUR      text                 null,
+   ADDRESSE_FOURNISSEUR text                 null,
+   DATE_INSCRIPTION_FOURNISSEUR datetime             null
+)
+go
+
+/*==============================================================*/
+/* Table : OPERATION_CLIENT                                     */
+/*==============================================================*/
+create table OPERATION_CLIENT (
+   CODE_PAIEMENT        varchar(20)          not null,
+   PAI_CODE_PAIEMENT    varchar(20)          not null,
+   CODE_OPERATION_CLIENT varchar(20)          not null,
+   DESIGNATION_OPERATION_CLIENT text                 null,
+   QUANTITE_OPERATION_CLIENT float                null,
+   PRIX_UNITAIRE_OPERATION_CLIENT float                null,
+   DATE_OPERATION_CLIENT datetime             null
+)
+go
+
+/*==============================================================*/
+/* Table : OPERATION_FOURNISSEUR                                */
+/*==============================================================*/
+create table OPERATION_FOURNISSEUR (
+   CODE_PAIEMENT        varchar(20)          not null,
+   PAI_CODE_PAIEMENT    varchar(20)          not null,
+   CODE_OPERATION_FOURNISSEUR varchar(20)          not null,
+   DESIGNATION_OPERATION_FOURNISSEUR text                 null,
+   QUANTITE_OPERATION_FOURNISSEUR float                null,
+   PRIX_UNITAIRE_OPERATION_FOURNISSEUR float                null,
+   DATE_OPERATION_FOURNISSEUR datetime             null
+)
+go
+
+/*==============================================================*/
+/* Table : PAIEMENT                                             */
+/*==============================================================*/
+create table PAIEMENT (
+   CODE_PAIEMENT        varchar(20)          not null,
+   MODE_PAIEMENT        text                 null,
+   REGLER_PAIEMENT      float                null,
+   RESTE_PAIEMENT       float                null,
+   constraint PK_PAIEMENT primary key nonclustered (CODE_PAIEMENT)
+)
+go

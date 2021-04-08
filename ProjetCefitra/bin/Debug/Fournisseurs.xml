@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfFournisseur xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Fournisseur>
+    <Code>BFHI1423</Code>
+    <Nom>AZROU SANI</Nom>
+    <Tel>053289452</Tel>
+    <Adresse>AZROU</Adresse>
+    <DateInscription>2010-07-03T00:00:00</DateInscription>
+  </Fournisseur>
+  <Fournisseur>
+    <Code>FGHIK14</Code>
+    <Nom>LAFARGE</Nom>
+    <Tel>053698741</Tel>
+    <Adresse>MEKNES</Adresse>
+    <DateInscription>2019-04-11T00:00:00</DateInscription>
+  </Fournisseur>
+  <Fournisseur>
+    <Code>HJIK78</Code>
+    <Nom>INGELEC</Nom>
+    <Tel>0524789632</Tel>
+    <Adresse>FES</Adresse>
+    <DateInscription>2019-04-20T00:00:00</DateInscription>
+  </Fournisseur>
+</ArrayOfFournisseur>

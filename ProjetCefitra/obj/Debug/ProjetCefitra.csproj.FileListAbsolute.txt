@@ -1,0 +1,75 @@
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.Properties.Resources.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csproj.GenerateResource.cache
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csproj.CoreCompileInputs.cache
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.exe.config
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.exe
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.pdb
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.exe
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.pdb
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csproj.CopyComplete
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ClientForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.FournisseurForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.AddForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.app.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\MetroFramework.dll
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\MetroFramework.Fonts.dll
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.addFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.OperationCLientForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.AddOperationClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csprojAssemblyReference.cache
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyOperationClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoOperationClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.OperationFournisseurForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.AddOperationFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoOperationFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyOperationFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.exe.manifest
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.application
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.exe.manifest
+E:\ETUDES SUPERIEURE\Projets\2019\CEFITRA\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.application
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\db\Cefitra.mdf
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\db\Cefitra_log.ldf
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.exe.config
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.exe.manifest
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.application
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.exe
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\ProjetCefitra.pdb
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\MetroFramework.dll
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\MetroFramework.Fonts.dll
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csprojAssemblyReference.cache
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.AddForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.addFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.AddOperationClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.AddOperationFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.app.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ClientForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.FournisseurForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoOperationClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.InfoOperationFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyOperationClient.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.ModifyOperationFournisseur.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.OperationCLientForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.OperationFournisseurForm.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.Properties.Resources.resources
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csproj.GenerateResource.cache
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csproj.CoreCompileInputs.cache
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.exe.manifest
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.application
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.csproj.CopyComplete
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.exe
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\obj\Debug\ProjetCefitra.pdb
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\MySql.Data.dll
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\Google.Protobuf.dll
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\BouncyCastle.Crypto.dll
+E:\ETUDES SUPERIEURE\Projets\2019\Projet tutoriel\appDesktop\ProjetCefitra\ProjetCefitra\bin\Debug\MySql.Data.xml

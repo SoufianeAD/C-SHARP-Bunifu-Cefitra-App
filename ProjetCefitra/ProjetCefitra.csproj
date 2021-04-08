@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D366D5FE-3D56-47A2-A394-EF1F2DA0000C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjetCefitra</RootNamespace>
+    <AssemblyName>ProjetCefitra</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>C:\Users\Nostra\Desktop\APP\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>03D27A99D369F0C349516888D97CCDB78078B060</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ProjetCefitra_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\LOGICIELS\API\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualStudio.Tools.Applications.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\ESISA\3 eme\S6\ASP\paraStore\paraStore\paraStore\bin\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddForm.Designer.cs">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addFournisseur.Designer.cs">
+      <DependentUpon>addFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddOperationClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddOperationClient.Designer.cs">
+      <DependentUpon>AddOperationClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddOperationFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddOperationFournisseur.Designer.cs">
+      <DependentUpon>AddOperationFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="app.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="app.Designer.cs">
+      <DependentUpon>app.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client.cs" />
+    <Compile Include="ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO.cs" />
+    <Compile Include="DAODB.cs" />
+    <Compile Include="Fournisseur.cs" />
+    <Compile Include="FournisseurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FournisseurForm.Designer.cs">
+      <DependentUpon>FournisseurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoClient.Designer.cs">
+      <DependentUpon>InfoClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoFournisseur.Designer.cs">
+      <DependentUpon>InfoFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoOperationClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoOperationClient.Designer.cs">
+      <DependentUpon>InfoOperationClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoOperationFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoOperationFournisseur.Designer.cs">
+      <DependentUpon>InfoOperationFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.cs" />
+    <Compile Include="ModifyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyForm.Designer.cs">
+      <DependentUpon>ModifyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyFournisseur.Designer.cs">
+      <DependentUpon>ModifyFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyOperationClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyOperationClient.Designer.cs">
+      <DependentUpon>ModifyOperationClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyOperationFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyOperationFournisseur.Designer.cs">
+      <DependentUpon>ModifyOperationFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationClient.cs" />
+    <Compile Include="OperationCLientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperationCLientForm.Designer.cs">
+      <DependentUpon>OperationCLientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationFournisseur.cs" />
+    <Compile Include="OperationFournisseurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperationFournisseurForm.Designer.cs">
+      <DependentUpon>OperationFournisseurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paiement.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddForm.resx">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addFournisseur.resx">
+      <DependentUpon>addFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddOperationClient.resx">
+      <DependentUpon>AddOperationClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddOperationFournisseur.resx">
+      <DependentUpon>AddOperationFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="app.resx">
+      <DependentUpon>app.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FournisseurForm.resx">
+      <DependentUpon>FournisseurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoClient.resx">
+      <DependentUpon>InfoClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoFournisseur.resx">
+      <DependentUpon>InfoFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoOperationClient.resx">
+      <DependentUpon>InfoOperationClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoOperationFournisseur.resx">
+      <DependentUpon>InfoOperationFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyForm.resx">
+      <DependentUpon>ModifyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyFournisseur.resx">
+      <DependentUpon>ModifyFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyOperationClient.resx">
+      <DependentUpon>ModifyOperationClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyOperationFournisseur.resx">
+      <DependentUpon>ModifyOperationFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperationCLientForm.resx">
+      <DependentUpon>OperationCLientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperationFournisseurForm.resx">
+      <DependentUpon>OperationFournisseurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="ProjetCefitra_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Template\template.xlsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="db\Cefitra.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="db\Cefitra_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Cefitra.mdf</DependentUpon>
+    </Content>
+    <Content Include="icons\achat.png" />
+    <Content Include="icons\achat2.png" />
+    <Content Include="icons\add.png" />
+    <Content Include="icons\add2.png" />
+    <Content Include="icons\add3.png" />
+    <Content Include="icons\ajout.png" />
+    <Content Include="icons\clear.png" />
+    <Content Include="icons\client.png" />
+    <Content Include="icons\del.png" />
+    <Content Include="icons\excel.png" />
+    <Content Include="icons\fermer.png" />
+    <Content Include="icons\fournisseur.png" />
+    <Content Include="icons\info.png" />
+    <Content Include="icons\modify.png" />
+    <Content Include="icons\modify2.png" />
+    <Content Include="icons\quitter.png" />
+    <Content Include="icons\remove.png" />
+    <Content Include="icons\search.png" />
+    <Content Include="icons\vente.png" />
+    <Content Include="MetroFramework.txt" />
+    <Content Include="Resources\ajout.png" />
+    <Content Include="Resources\fermer.png" />
+    <Content Include="Resources\logo.png" />
+    <Content Include="Resources\logo2.png" />
+    <Content Include="Resources\logo1.png" />
+    <None Include="Resources\p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FacturesClients\" />
+    <Folder Include="FacturesFournisseurs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

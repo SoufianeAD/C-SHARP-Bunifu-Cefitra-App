@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfOperationFournisseur xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OperationFournisseur>
+    <Code>0</Code>
+    <Designation>PLUG IN</Designation>
+    <Quantite>200</Quantite>
+    <PrixUnitaire>115</PrixUnitaire>
+    <DateOperation>2019-04-11T00:00:00</DateOperation>
+    <Fournisseur>
+      <Code>HJIK78</Code>
+      <Nom>INGELEC</Nom>
+      <Tel>0524789632</Tel>
+      <Adresse>FES</Adresse>
+      <DateInscription>2019-04-20T00:00:00</DateInscription>
+    </Fournisseur>
+    <Paiement>
+      <ModePaiement>Espèce</ModePaiement>
+      <Montant>27600</Montant>
+      <Regler>27600</Regler>
+      <Reste>0</Reste>
+    </Paiement>
+  </OperationFournisseur>
+</ArrayOfOperationFournisseur>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Client>
+    <Code>CDF1579</Code>
+    <Nom>SALAH EDDINE</Nom>
+    <Tel>0654789589</Tel>
+    <Adresse>CENTRE VILLE, FES</Adresse>
+    <DateInscriptionClient>2019-05-03T00:00:00</DateInscriptionClient>
+  </Client>
+  <Client>
+    <Code>FBDSK156</Code>
+    <Nom>OUSSAMA</Nom>
+    <Tel>063258974</Tel>
+    <Adresse>MONT FLEURI FES</Adresse>
+    <DateInscriptionClient>2019-05-22T00:00:00</DateInscriptionClient>
+  </Client>
+  <Client>
+    <Code>SFDH4569</Code>
+    <Nom>MEHDI IRAQI HOUSSAINI</Nom>
+    <Tel>06258789</Tel>
+    <Adresse>FES</Adresse>
+    <DateInscriptionClient>2019-05-22T00:00:00</DateInscriptionClient>
+  </Client>
+  <Client>
+    <Code>SQSDRE4587</Code>
+    <Nom>AYMAN</Nom>
+    <Tel>06911477</Tel>
+    <Adresse>FES</Adresse>
+    <DateInscriptionClient>2019-05-22T00:00:00</DateInscriptionClient>
+  </Client>
+</ArrayOfClient>

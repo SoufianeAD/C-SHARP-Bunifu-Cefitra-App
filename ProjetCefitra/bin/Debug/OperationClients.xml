@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfOperationClient xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OperationClient>
+    <Code>2</Code>
+    <Designation>PC</Designation>
+    <Quantite>1</Quantite>
+    <PrixUnitaire>15000</PrixUnitaire>
+    <Client>
+      <Code>CDF1579</Code>
+      <Nom>SALAH EDDINE</Nom>
+      <Tel>0654789589</Tel>
+      <Adresse>CENTRE VILLE, FES</Adresse>
+      <DateInscriptionClient>2019-05-03T00:00:00</DateInscriptionClient>
+    </Client>
+    <Paiement>
+      <ModePaiement>Chèque</ModePaiement>
+      <Montant>17760</Montant>
+      <Regler>17760</Regler>
+      <Reste>0</Reste>
+    </Paiement>
+    <DateOperation>2019-05-20T00:00:00</DateOperation>
+  </OperationClient>
+  <OperationClient>
+    <Code>5</Code>
+    <Designation>VOITURE</Designation>
+    <Quantite>1</Quantite>
+    <PrixUnitaire>5000000</PrixUnitaire>
+    <Client>
+      <Code>SFDH4569</Code>
+      <Nom>MEHDI IRAQI HOUSSAINI</Nom>
+      <Tel>06258789</Tel>
+      <Adresse>FES</Adresse>
+      <DateInscriptionClient>2019-05-22T00:00:00</DateInscriptionClient>
+    </Client>
+    <Paiement>
+      <ModePaiement>Espèce</ModePaiement>
+      <Montant>5760000</Montant>
+      <Regler>5760000</Regler>
+      <Reste>0</Reste>
+    </Paiement>
+    <DateOperation>2019-05-22T00:00:00</DateOperation>
+  </OperationClient>
+</ArrayOfOperationClient>
